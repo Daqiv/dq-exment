@@ -47,7 +47,7 @@
         "laravel/browser-kit-testing": "~6.3",
         "dms/phpunit-arraysubset-asserts": "~0.1"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
